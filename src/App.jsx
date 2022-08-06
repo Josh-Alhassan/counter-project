@@ -5,7 +5,6 @@ export default function App() {
   return (
       <div>
         <Counter />
-      
         <main>
           React ⚛️ + Vite ⚡ + Replit 🌀
         </main>
